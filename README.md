@@ -13,7 +13,7 @@ Feedback Mechanism: The program should compare the user's guess to the generated
 
 Iteration: The program should continue to prompt the user for guesses until the correct number is guessed.
 
-### Features:
+### Features:-
 
 User-Friendly Interface: The program should provide clear and concise prompts and messages to guide the user through the game. Real-Time Feedback: Immediate feedback on whether the guess is too high, too low, or correct. Efficient Looping: Ensure the program efficiently handles multiple guesses and continues until the correct number is guessed. Accurate Attempt Tracking: Correctly count and display the number of attempts taken by the user. Implementation Steps:
 
